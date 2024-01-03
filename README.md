@@ -1,2 +1,11 @@
 # Data-Analytics-and-Visualization-Projects
-Portfolio of data analytics and visualization projects for academic and self-learning purposes. 
+Here's my data analytics and visualization projects for academic and self-learning purposes. 
+
+# List of Projects
+- Excel Spreadsheet (using diverse function: Power Query, Power Pivot, Pivot Table, VLOOKUP)
+    - Company Annual Sales Performance Analysis: Using sales data from 2 years to analyze company's performance for better decision-making process. 
+    
+- Power BI
+
+- Python
+
