@@ -7,4 +7,4 @@ A company sold their product to different segments and countries. They have sale
 - Insights : Provide useful insights to the stakeholders.
 
 # Dashboard's page
-![Final Dashboard](images/Screenshot.png)
+![Final Dashboard](images/final-dashboard.png)
