@@ -10,7 +10,6 @@ Here's my data analytics and visualization projects using multiple tools for aca
 
 - Python
     -  Vehicle Insurance Fraud Detection: Applied advanced recommendation models in Python to process and analyze a dataset of 100+ car makes to identify and reduce up to 30% of potential car insurance false claims, contributing to increased profitability.
-•	Applied advanced recommendation models in Python to process and analyze a dataset of 100+ car makes to identify and reduce up to 30% of potential car insurance false claims, contributing to increased profitability.
 
 
 - KNIME
