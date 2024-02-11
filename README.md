@@ -6,6 +6,7 @@ Here's my data analytics and visualization projects for academic and self-learni
     - [Company Annual Sales Performance Analysis](https://github.com/thunguyen232/Data-Analytics-and-Visualization-Projects/tree/main/Sales-Performance-project): Using sales data from 2 years to analyze company's performance for better decision-making process. 
     
 - Power BI
+    - [Tiktok Channel Performance Analysis](https://github.com/thunguyen232/Data-Analytics-and-Visualization-Projects/tree/main/Sales-Performance-project): Using sales data from 2 years to analyze company's performance for better decision-making process.
 
 - Python
 
