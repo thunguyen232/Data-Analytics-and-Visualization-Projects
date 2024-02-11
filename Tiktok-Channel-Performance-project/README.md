@@ -8,7 +8,7 @@ A company specializing in technical data training seeks to expand its customer b
 - Create measure using DAX function like SUM, CALCULATE, IF, DIVIDE to calculate necessary metrics. 
 - Dashboard : Create teamplate and arrange different types of charts for better data visulization. 
 
-# Dashboard's result
+# Dashboard's result: [LINK](https://app.powerbi.com/view?r=eyJrIjoiMzA4NDJmOTktOTA2Mi00MmE0LWJjNTAtZDRlZDQ4YTMxMmM3IiwidCI6IjQxYWI0MmE5LTM4MWItNDhjZi04YTg1LTcyMDQ2NDkyMjk3NiIsImMiOjEwfQ%3D%3D)
 - Channel Performance
 ![alt text](image.png)
 
