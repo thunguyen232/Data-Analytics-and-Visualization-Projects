@@ -13,4 +13,4 @@ Here's my data analytics and visualization projects using multiple tools for aca
 
 
 - KNIME
-    - Product Recommendation System
+    - [Product Recommendation System] (https://github.com/thunguyen232/Data-Analytics-and-Visualization-Projects/tree/main/Product-Recommendation-System): Applied KNIME nodes to build a recommendation systems using content-based methodology with N-Grams algorithm resulted in more narrow and precise products results based on the keyword input. 
