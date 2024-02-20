@@ -13,4 +13,5 @@ In today's tech era, online shopping offers convenience, comparison, and access 
     Using 3-grams for string similarity analysis, the model recommends products based on user_input in the order of manufacturer, main category, name, price gap, and popularity (no_of_rating). Input is converted to lowercase for consistency. Similarity scores are computed for manufacturer, main category, and name using String Similarity. Price gap percentage and sum of similarity scores are calculated, filtering out items with accuracy > 80%. Recommendations are further sorted by price gap and popularity, with extraneous columns removed for clarity.
 
 
-# Results: (updating)
+# Results: Link (updating)
+Type in a keyword 'samsung galaxy' that leads to 39 results with high similarity, best offer discount price. 
